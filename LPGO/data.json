@@ -1,0 +1,154 @@
+{
+    "players": [
+    {
+      "name": "A",
+      "shirtNr": 1,
+      "averagePts": 4.1
+    },
+    {
+      "name": "B",
+      "shirtNr": 2,
+      "averagePts": 4.2
+    },
+    {
+      "name": "C",
+      "shirtNr": 3,
+      "averagePts": 4.3
+    },
+    {
+      "name": "D",
+      "shirtNr": 4,
+      "averagePts": 4.4
+    },
+    {
+      "name": "E",
+      "shirtNr": 5,
+      "averagePts": 4.5
+    },
+    {
+      "name": "F",
+      "shirtNr": 6,
+      "averagePts": 4.6
+    },
+    {
+      "name": "G",
+      "shirtNr": 7,
+      "averagePts": 4.7
+    },
+    {
+      "name": "H",
+      "shirtNr": 8,
+      "averagePts": 4.8
+    },
+    {
+      "name": "I",
+      "shirtNr": 9,
+      "averagePts": 4.9
+    },
+    {
+      "name": "J",
+      "shirtNr": 10,
+      "averagePts": 5.0
+    },
+    {
+      "name": "K",
+      "shirtNr": 11,
+      "averagePts": 5.1
+    },
+    {
+      "name": "L",
+      "shirtNr": 12,
+      "averagePts": 5.2
+    },
+    {
+      "name": "M",
+      "shirtNr": 13,
+      "averagePts": 5.3
+    },
+    {
+      "name": "N",
+      "shirtNr": 14,
+      "averagePts": 5.4
+    },
+    {
+      "name": "O",
+      "shirtNr": 15,
+      "averagePts": 5.5
+    },
+    {
+      "name": "P",
+      "shirtNr": 16,
+      "averagePts": 5.6
+    },
+    {
+      "name": "Q",
+      "shirtNr": 17,
+      "averagePts": 5.7
+    },
+    {
+      "name": "R",
+      "shirtNr": 18,
+      "averagePts": 5.8
+    },
+    {
+      "name": "S",
+      "shirtNr": 19,
+      "averagePts": 5.9
+    },
+    {
+      "name": "T",
+      "shirtNr": 20,
+      "averagePts": 6.0
+    },
+    {
+      "name": "U",
+      "shirtNr": 21,
+      "averagePts": 6.1
+    },
+    {
+      "name": "W",
+      "shirtNr": 22,
+      "averagePts": 6.2
+    },
+    {
+      "name": "V",
+      "shirtNr": 23,
+      "averagePts": 6.3
+    },
+    {
+      "name": "Z",
+      "shirtNr": 24,
+      "averagePts": 6.4
+    },
+    {
+      "name": "Ab",
+      "shirtNr": 25,
+      "averagePts": 6.5
+    },
+    {
+      "name": "Ac",
+      "shirtNr": 26,
+      "averagePts": 6.6
+    },
+    {
+      "name": "Ad",
+      "shirtNr": 27,
+      "averagePts": 6.7
+    },
+    {
+      "name": "Af",
+      "shirtNr": 28,
+      "averagePts": 6.8
+    },
+    {
+      "name": "Ag",
+      "shirtNr": 29,
+      "averagePts": 6.9
+    },
+    {
+      "name": "Ah",
+      "shirtNr": 30,
+      "averagePts": 7.0
+    }
+  ]
+  }
