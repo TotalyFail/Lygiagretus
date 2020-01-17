@@ -1,0 +1,40 @@
+﻿Gargzdai;Juozas;52;1,0
+Gargzdai;Kazys;23;1,0
+Gargzdai;Kristupas;11;2,0
+Gargzdai;Laurynas;2;3,0
+Gargzdai;Mantas;1;3,0
+Gargzdai;Kristupas;11;1,2
+Gargzdai;Laurynas;2;2,3
+Gargzdai;Mantas;1;3,4
+Zalgiris;Caryl;1;2,1
+Zalgiris;Angus;2;3,2
+Zalgiris;Andros;3;2,2
+Zalgiris;Hirsch;4;3,3
+Zalgiris;Knox;5;1,1
+Zalgiris;Andros;3;1,1
+Zalgiris;Hirsch;4;3,4
+Zalgiris;Knox;5;1,7
+Lietuvos rytas;Conney;6;2,5
+Lietuvos rytas;Allie;7;2,5
+Lietuvos rytas;Humfrey;8;2,7
+Lietuvos rytas;Tanney;9;3,7
+Lietuvos rytas;Jonas;10;2,8
+Lietuvos rytas;Humfrey;8;1,3
+Lietuvos rytas;Tanney;9;1,2
+Lietuvos rytas;Jonas;10;2,3
+Kabelis;Petras;1;2,0
+Kabelis;Antanas;2;3,0
+Kabelis;Juozas;3;1,0
+Kabelis;Jeffrey;4;1,1
+Kabelis;Tim;5;2,2
+Kabelis;Juozas;3;3,3
+Kabelis;Jeffrey;4;2,2
+Kabelis;Tim;5;1,4
+Neptunas;Ken;6;1,5
+Neptunas;Ted;7;1,6
+Neptunas;Cale;8;1,7
+Neptunas;Anthon;9;1,8
+Neptunas;Peter;10;1,9
+Neptunas;Peter;10;2,0
+Neptunas;Anthon;9;2,1
+Neptunas;Peter;10;2,2

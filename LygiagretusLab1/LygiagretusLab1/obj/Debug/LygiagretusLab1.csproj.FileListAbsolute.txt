@@ -1,0 +1,10 @@
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\bin\Debug\LygiagretusLab1.exe
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\bin\Debug\LygiagretusLab1.pdb
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\obj\Debug\LygiagretusLab1.csprojAssemblyReference.cache
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\obj\Debug\LygiagretusLab1.csproj.CoreCompileInputs.cache
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\obj\Debug\LygiagretusLab1.exe
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\obj\Debug\LygiagretusLab1.pdb
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\bin\Debug\IFF-6-5_DambrauskasEimontas_L1a_dat.txt
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\bin\Debug\IFF-6-5_DambrauskasEimontas_L1a_rez.txt
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\bin\Debug\IFF-6-5_DambrauskasEimontas_L1a_dat3.txt
+C:\Users\Eimis\source\repos\LygiagretusLab1\LygiagretusLab1\bin\Debug\IFF-6-5_DambrauskasEimontas_L1a_dat2.txt

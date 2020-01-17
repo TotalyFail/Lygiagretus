@@ -1,0 +1,104 @@
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Juozas               | Gargzdai        | 52              | 1               |
+| Kazys                | Gargzdai        | 23              | 15,5            |
+| Kristupas            | Gargzdai        | 11              | 12,2            |
+| Laurynas             | Gargzdai        | 2               | 5,6             |
+| Mantas               | Gargzdai        | 1               | 17,7            |
+| Kristupas            | Gargzdai        | 11              | 12,2            |
+| Laurynas             | Gargzdai        | 2               | 5,6             |
+| Mantas               | Gargzdai        | 1               | 17,7            |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Caryl                | Zalgiris        | 1               | 12,5            |
+| Angus                | Zalgiris        | 2               | 3,2             |
+| Andros               | Zalgiris        | 3               | 8,9             |
+| Hirsch               | Zalgiris        | 4               | 9,4             |
+| Knox                 | Zalgiris        | 5               | 3,9             |
+| Andros               | Zalgiris        | 3               | 8,9             |
+| Hirsch               | Zalgiris        | 4               | 9,4             |
+| Knox                 | Zalgiris        | 5               | 11,1            |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Conney               | Lietuvos rytas  | 6               | 13,4            |
+| Allie                | Lietuvos rytas  | 7               | 15,7            |
+| Humfrey              | Lietuvos rytas  | 8               | 6,6             |
+| Tanney               | Lietuvos rytas  | 9               | 17,9            |
+| Jonas                | Lietuvos rytas  | 10              | 7,7             |
+| Humfrey              | Lietuvos rytas  | 8               | 6,6             |
+| Tanney               | Lietuvos rytas  | 9               | 17,9            |
+| Jonas                | Lietuvos rytas  | 10              | 7,7             |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Petras               | Kabelis         | 1               | 5               |
+| Antanas              | Kabelis         | 2               | 6,3             |
+| Juozas               | Kabelis         | 3               | 6,4             |
+| Jeffrey              | Kabelis         | 4               | 5,5             |
+| Tim                  | Kabelis         | 5               | 2,3             |
+| Juozas               | Kabelis         | 3               | 4,4             |
+| Jeffrey              | Kabelis         | 4               | 4               |
+| Tim                  | Kabelis         | 5               | 6,6             |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Ken                  | Neptunas        | 6               | 7,7             |
+| Ted                  | Neptunas        | 7               | 8,8             |
+| Cale                 | Neptunas        | 8               | 9,9             |
+| Anthon               | Neptunas        | 9               | 10,1            |
+| Peter                | Neptunas        | 10              | 11,2            |
+| Peter                | Neptunas        | 10              | 11,2            |
+| Anthon               | Neptunas        | 9               | 10,1            |
+| Peter                | Neptunas        | 10              | 3               |
+
+///////////////////////////////////////////////////////////////////////////////
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Juozas               | Kabelis         | 3               | 4,4             |
+| Petras               | Kabelis         | 1               | 5               |
+| Jeffrey              | Kabelis         | 4               | 5,5             |
+| Laurynas             | Gargzdai        | 2               | 5,6             |
+| Laurynas             | Gargzdai        | 2               | 5,6             |
+| Antanas              | Kabelis         | 2               | 6,3             |
+| Juozas               | Kabelis         | 3               | 6,4             |
+| Humfrey              | Lietuvos rytas  | 8               | 6,6             |
+| Humfrey              | Lietuvos rytas  | 8               | 6,6             |
+| Tim                  | Kabelis         | 5               | 6,6             |
+| Jonas                | Lietuvos rytas  | 10              | 7,7             |
+| Jonas                | Lietuvos rytas  | 10              | 7,7             |
+| Ken                  | Neptunas        | 6               | 7,7             |
+| Ted                  | Neptunas        | 7               | 8,8             |
+| Andros               | Zalgiris        | 3               | 8,9             |
+| Andros               | Zalgiris        | 3               | 8,9             |
+| Hirsch               | Zalgiris        | 4               | 9,4             |
+| Hirsch               | Zalgiris        | 4               | 9,4             |
+| Cale                 | Neptunas        | 8               | 9,9             |
+| Anthon               | Neptunas        | 9               | 10,1            |
+| Anthon               | Neptunas        | 9               | 10,1            |
+| Knox                 | Zalgiris        | 5               | 11,1            |
+| Peter                | Neptunas        | 10              | 11,2            |
+| Peter                | Neptunas        | 10              | 11,2            |
+| Kristupas            | Gargzdai        | 11              | 12,2            |
+| Kristupas            | Gargzdai        | 11              | 12,2            |
+| Caryl                | Zalgiris        | 1               | 12,5            |
+| Conney               | Lietuvos rytas  | 6               | 13,4            |
+| Kazys                | Gargzdai        | 23              | 15,5            |
+| Allie                | Lietuvos rytas  | 7               | 15,7            |
+| Mantas               | Gargzdai        | 1               | 17,7            |
+| Mantas               | Gargzdai        | 1               | 17,7            |
+| Tanney               | Lietuvos rytas  | 9               | 17,9            |
+| Tanney               | Lietuvos rytas  | 9               | 17,9            |

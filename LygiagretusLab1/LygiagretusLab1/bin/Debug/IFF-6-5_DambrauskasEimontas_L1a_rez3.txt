@@ -1,0 +1,71 @@
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Juozas               | Gargzdai        | 52              | 1               |
+| Kazys                | Gargzdai        | 23              | 1               |
+| Kristupas            | Gargzdai        | 11              | 2               |
+| Laurynas             | Gargzdai        | 2               | 3               |
+| Mantas               | Gargzdai        | 1               | 3               |
+| Kristupas            | Gargzdai        | 11              | 1,2             |
+| Laurynas             | Gargzdai        | 2               | 2,3             |
+| Mantas               | Gargzdai        | 1               | 3,4             |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Caryl                | Zalgiris        | 1               | 2,1             |
+| Angus                | Zalgiris        | 2               | 3,2             |
+| Andros               | Zalgiris        | 3               | 2,2             |
+| Hirsch               | Zalgiris        | 4               | 3,3             |
+| Knox                 | Zalgiris        | 5               | 1,1             |
+| Andros               | Zalgiris        | 3               | 1,1             |
+| Hirsch               | Zalgiris        | 4               | 3,4             |
+| Knox                 | Zalgiris        | 5               | 1,7             |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Conney               | Lietuvos rytas  | 6               | 2,5             |
+| Allie                | Lietuvos rytas  | 7               | 2,5             |
+| Humfrey              | Lietuvos rytas  | 8               | 2,7             |
+| Tanney               | Lietuvos rytas  | 9               | 3,7             |
+| Jonas                | Lietuvos rytas  | 10              | 2,8             |
+| Humfrey              | Lietuvos rytas  | 8               | 1,3             |
+| Tanney               | Lietuvos rytas  | 9               | 1,2             |
+| Jonas                | Lietuvos rytas  | 10              | 2,3             |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Petras               | Kabelis         | 1               | 2               |
+| Antanas              | Kabelis         | 2               | 3               |
+| Juozas               | Kabelis         | 3               | 1               |
+| Jeffrey              | Kabelis         | 4               | 1,1             |
+| Tim                  | Kabelis         | 5               | 2,2             |
+| Juozas               | Kabelis         | 3               | 3,3             |
+| Jeffrey              | Kabelis         | 4               | 2,2             |
+| Tim                  | Kabelis         | 5               | 1,4             |
+
+-------------------------------------------------------------------------------
+| Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+-------------------------------------------------------------------------------
+| Ken                  | Neptunas        | 6               | 1,5             |
+| Ted                  | Neptunas        | 7               | 1,6             |
+| Cale                 | Neptunas        | 8               | 1,7             |
+| Anthon               | Neptunas        | 9               | 1,8             |
+| Peter                | Neptunas        | 10              | 1,9             |
+| Peter                | Neptunas        | 10              | 2               |
+| Anthon               | Neptunas        | 9               | 2,1             |
+| Peter                | Neptunas        | 10              | 2,2             |
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+-----------------------------------------------------------------------------------------------------
+| Gija         | Nr. | Vardas               | Komanda         | Marškinėlių nr  | Taškų vidurkis  |
+
+
+-----------------------------------------------------------------------------------------------------
